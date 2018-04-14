@@ -1,0 +1,6 @@
+ReactionToCloseQuestion,はい,Yes,いぇｓ,そうですね,それで。,それにします,じゃあ、それで,そうっすね,お願いします
+ReactionToCloseQuestion,Cancel,やっぱやめ,なしで,キャンセル
+ReactionToCloseQuestion,いいえ,No,Ｎｏ,違う,ちがいます,違います,ではないです,全然(´・ω・｀),いいや,そうでもない
+ReactionToCloseQuestion,質問への否定,なんでそんなこと聞くの？,どうしてそれをきく,どっからでてきた
+ReactionToCloseQuestion,質問者への否定,誰だお前,どうしてお前にいわなきゃいけないんだ,どちらさまですか,お前じゃない,座ってろ
+ReactionToCloseQuestion,回答者の否定,私じゃ分からない,オレは知らん,そんなの知らん,私では応えられない,私では答えられない,コメントする立場にない
